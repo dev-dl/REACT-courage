@@ -1,10 +1,10 @@
 
 .chat_subject{
-    background-color: rgb(125, 172, 31);
+    background-color: #F5F8FF;
 }
 
 .chat_history{
-    background-color: #F3F3F3;
+    background-color: #F0F3F8;
     height: 720px;
     margin-top : 2%;
     padding:3%;
@@ -61,7 +61,7 @@ ul{
 
 .PHILOSOPHER p{
     display:block;
-    background: #98EA70;
+    background: #D5E6FD;
     padding:10px;
     border-radius: 5px;
 
@@ -95,7 +95,7 @@ ul{
 .chat_submit{
     width:22%;
     float:right;
-    background: rgb(33, 175, 97);
+    background: #7EB3D0;
     border:0;
     
 }

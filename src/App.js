@@ -7,7 +7,7 @@ class App extends Component {
 
     chatSubjects: [
       {
-        content : 'Introduction',
+        content : 'Introduction ',
       },
     ],
 

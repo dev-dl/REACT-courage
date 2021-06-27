@@ -991,7 +991,7 @@ tfoot th {
 }
 
 td {
-  border-bottom: 1px solid #dedede;
+  border-bottom: 0px solid #dedede;
 }
 
 th,
